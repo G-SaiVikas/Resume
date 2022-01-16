@@ -1,0 +1,16 @@
+h2 {
+  color: black;
+}
+
+hr {
+  border-style: dotted none none;
+  border-color: grey;
+  border-width: thick;
+  height: 0;
+  width: 7%;
+}
+h3{
+  background-color: lightblue;
+  font-size: 40;
+  border : 2px solid black;
+}
